@@ -102,6 +102,15 @@ Acesse `http://localhost:3000`.
 
 ---
 
+## 🚀 Deploy
+
+A aplicação está disponível online:
+
+🔗 https://json-schema-builder-nu-khaki.vercel.app/
+
+O deploy é realizado automaticamente a cada novo push na branch principal do repositório, utilizando integração contínua (CI/CD).
+
+
 ## Como usar
 
 1. Clique em **+ Adicionar campo** para criar um novo campo
